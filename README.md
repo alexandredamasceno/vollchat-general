@@ -19,7 +19,7 @@ Em todo o meu curso na Trybe, eu nunca pesquisei e consultei tanto documentaçõ
 O backend foi mais tranquilo de se fazer por causa da minha experiência passada com Nodejs, mas encontrei várias barreiras na hora de integrar o front ao back utilizando Socket.io.
 
 `Por que Socket.io?` O objetivo do projeto era criar a aplicação com WebSockets, porém como o meu tempo estava escasso, não por causa do prazo que me foi dado, que por sinal foi ótimo, mas por conta de alguns problemas pessoais eu acabei ficando sem tempo, sendo assim eu optei por usar a biblioteca socket.io por ser mais prático e por usar a tecnologia dos WebSockets.
-Infelizmente, não pude entregar 100% do que foi pedido, incluindo CSS e deploy, mas o aprendizado que eu tive não se pode medir. Meu muito obrigado a Voll Soluctions!
+Infelizmente, não pude entregar 100% do que foi pedido, incluindo CSS e deploy, mas o aprendizado que eu tive não se pode medir. Meu muito obrigado a Voll Solutions!
 PS: mesmo sem prazo vou finalizar esse projeto e fazer o deploy de ambas aplicações.
 
 ##### ⚠️ Atenção: as instruções para rodar cada projeto estão em seus respectivos repositórios.
