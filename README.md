@@ -8,6 +8,7 @@ Desenvolver um sistema de CHAT para conversas em grupo utilizando WEBSOCKET.
   * `NodeJS`
   * `Express`
   * `Socket.io`
+  * `MongoDB`
 2. Frontend:
   * `Vue.js`
   * `Socket.io`
