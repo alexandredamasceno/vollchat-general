@@ -9,9 +9,11 @@ Desenvolver um sistema de CHAT para conversas em grupo utilizando WEBSOCKET.
   * `Express`
   * `Socket.io`
   * `MongoDB`
+  * `ESLint`
 2. Frontend:
   * `Vue.js`
   * `Socket.io`
+  * `ESLint`
 
 ## Aprendizados
 Essa foi a primeria vez em que eu trabalhei com Vue.js e devo dizer que ao mesmo tempo em que foi desafiador, foi também muito divertido.
